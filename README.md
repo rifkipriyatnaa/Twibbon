@@ -114,7 +114,7 @@ border-color:red;
 				background:url(https://raw.githubusercontent.com/webanakmilenial/Twibbom/main/tujuhbelasan.jpg);
 								width:80%;
 								background-size:100%;
-								height:50%;
+								height:100%;
 								margin:auto;
 								display:block;
 				       display:none;
@@ -136,7 +136,7 @@ border-color:red;
 </style>
 
 
-				</style>
+				
 </head>
 <body>
 				<div class="head">
@@ -152,7 +152,7 @@ border-color:red;
 				<div class="bckgrnd" id="bckgrnd">
 								
 <div>
-				<br><br><br><br><br><br>
+				<br><br><br><br>
     <video autoplay="true" id="video-webcam" class="clip">
        
     </video>
