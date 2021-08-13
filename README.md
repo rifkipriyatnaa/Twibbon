@@ -180,7 +180,7 @@ border-color:red;
 
 
 <div class="bawah">
-								<p class="copy">XII TITL 01 Web Deisgn Copyright © 2021</p>
+								<p class="copy">XII TITL 01 Web Design Copyright © 2021</p>
 				</div>
 
 
