@@ -17,7 +17,7 @@ $(document).ready(function(){
 <style type="text/css">
 				
 				.bckgrnd{
-								background:url(tujuhbelasan.jpg);
+								background:url(https://raw.githubusercontent.com/webanakmilenial/Twibbom/main/tujuhbelasan.jpg);
 								width:80%;
 								background-size:100%;
 								height:50%;
@@ -111,7 +111,7 @@ border-color:red;
 
 
 .hasil{
-				background:url(tujuhbelasan.jpg);
+				background:url(https://raw.githubusercontent.com/webanakmilenial/Twibbom/main/tujuhbelasan.jpg);
 								width:80%;
 								background-size:100%;
 								height:50%;
