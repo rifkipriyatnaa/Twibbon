@@ -20,7 +20,7 @@ $(document).ready(function(){
 								background:url(https://raw.githubusercontent.com/webanakmilenial/Twibbom/main/tujuhbelasan.jpg);
 								width:90%;
 								background-size:100%;
-								height:50%;
+								height:55%;
 								margin:auto;
 								display:block;
 								
@@ -152,7 +152,7 @@ border-color:red;
 				<div class="bckgrnd" id="bckgrnd">
 								
 <div>
-				<br><br><br>
+				<br><br><br><br>
     <video autoplay="true" id="video-webcam" class="clip">
        
     </video>
