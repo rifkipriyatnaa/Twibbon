@@ -157,7 +157,7 @@ border-color:red;
        
     </video>
     
-     
+     <br><br><br><br>
 </div>
 </div>
 <br><br>
@@ -169,6 +169,7 @@ border-color:red;
 <div class="hasil" id="hasil">
 <br><br><br>
 				<canvas id="canvas" class="canvas"></canvas>
+<br><br><br><br>
 </div>
 
 
