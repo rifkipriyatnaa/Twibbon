@@ -46,7 +46,7 @@ border-color:red;
 				top:0;
 				left:0;
 				right:0;
-				background-color:#bb1f27; padding:8px;			
+				background-color:#bb1f27; 		
 }
 
 .span{
@@ -59,7 +59,7 @@ border-color:red;
 				justify-content:space-between;
 				flex-direction:column;
 				margin-top:8px;
-				border:none;margin-bottom:-30px;
+				border:none; margin-bottom:-30px;
 
 .span span{
 				background-color:white;
@@ -68,7 +68,7 @@ border-color:red;
 				display:block;
 				margin-top:3px;
 				margin-top:4px;
-				margin-left:5px;margin-bottom:-30px;
+				margin-left:5px;
 }
 
 .nama{
