@@ -59,7 +59,8 @@ border-color:red;
 				justify-content:space-between;
 				flex-direction:column;
 				margin-top:8px;
-				border:none; margin-bottom:-30px; }
+				border:none; 
+ }
 
 .span span{
 				background-color:white;
