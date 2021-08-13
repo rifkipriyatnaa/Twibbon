@@ -58,7 +58,7 @@ border-color:red;
 				display:flex;
 				justify-content:space-between;
 				flex-direction:column;
-				margin-top:8px;
+				margin-top:-30px;
 				border:none; 
  }
 
@@ -67,8 +67,8 @@ border-color:red;
 				width:17px;
 				height:3px;
 				display:block;
-				margin-top:3px;
-				margin-top:4px;
+				margin-top:0px;
+				
 				margin-left:5px;
 }
 
