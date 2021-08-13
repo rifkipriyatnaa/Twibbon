@@ -76,7 +76,7 @@ border-color:red;
 				text-align:center;
 				font-family:cursive,"Brush Script MT";
 	     color:white;
-				margin-top:-22px;
+				margin-top:-45px;
 }
 
   .bawah{
@@ -152,7 +152,7 @@ border-color:red;
 				<div class="bckgrnd" id="bckgrnd">
 								
 <div>
-				<br><br><br><br>
+				<br><br><br>
     <video autoplay="true" id="video-webcam" class="clip">
        
     </video>
@@ -167,6 +167,7 @@ border-color:red;
 
 
 <div class="hasil" id="hasil">
+<br><br><br>
 				<canvas id="canvas" class="canvas"></canvas>
 </div>
 
