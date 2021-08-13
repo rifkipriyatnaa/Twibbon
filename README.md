@@ -20,7 +20,7 @@ $(document).ready(function(){
 								background:url(https://raw.githubusercontent.com/webanakmilenial/Twibbom/main/tujuhbelasan.jpg);
 								width:90%;
 								background-size:100%;
-								height:53%;
+								height:52%;
 								margin:auto;
 								display:block;
 								
