@@ -23,7 +23,7 @@ $(document).ready(function(){
 								height:52%;
 								margin:auto;
 								display:block;
-								
+								display:none;
 								
 								}
 
@@ -168,7 +168,16 @@ opacity:0;
 								<h2 class="nama">Twibbon</h2>
 				</div>
 				<br><br><br><br>
-				<button class="play" onclick="play()">Mulai</button>
+
+<script>
+$(document).ready(function(){
+  $("#play").click(function(){
+    $("#play").fadeOut(100);
+    $("#bckgrnd").fadeIn(1000);
+    
+</script>
+
+				<button class="play" onclick="play()" id="play">Mulai</button>
 
 <audio class="audio" controls id="playAudio">
  <source src="https://raw.githubusercontent.com/rifkipriyatnaa/Twibbon/main/indonesiapusaka.mp3" type="audio/ogg"> </audio>
