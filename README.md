@@ -100,7 +100,7 @@ border-color:red;
 				background:white;
 				color:#bb1f27;
 				width:30%;
-				margin-left:30%;
+				margin-left:33%;
 				display:none;
 				font-size:10px;
 				padding:10px;
