@@ -100,14 +100,14 @@ border-color:red;
 				background:white;
 				color:#bb1f27;
 				width:30%;
-				margin:auto;
-				display:block;
+				margin-left:20%;
+				display:none;
 				font-size:10px;
 				padding:10px;
 				border-radius:3px;
 				border-style:solid;
 				border-color:#bb1f27;
-                                display:none;
+                                
 }
 
 
@@ -197,7 +197,7 @@ function play() {
 				<div class="bckgrnd" id="bckgrnd">
 								
 <div>
-				<br><br><br><br>
+				<br><br>
     <video autoplay="true" id="video-webcam" class="clip">
        
     </video>
