@@ -107,6 +107,7 @@ border-color:red;
 				border-radius:3px;
 				border-style:solid;
 				border-color:#bb1f27;
+                                display:none;
 }
 
 
@@ -174,6 +175,9 @@ $(document).ready(function(){
   $("#play").click(function(){
     $("#play").fadeOut(100);
     $("#bckgrnd").fadeIn(1000);
+    $("#ambil").fadeIn(1000);
+});
+});
     
 </script>
 
