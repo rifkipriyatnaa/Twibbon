@@ -133,6 +133,26 @@ border-color:red;
 }
 
 
+.play{
+                                border:none;
+				text-decoration:none;
+				background:white;
+				color:#bb1f27;
+				width:30%;
+				margin:auto;
+				display:block;
+				font-size:10px;
+				padding:10px;
+				border-radius:3px;
+				border-style:solid;
+				border-color:#bb1f27;
+}
+
+.audio{
+width:5px;
+opacity:0;
+}
+
 </style>
 
 
@@ -148,7 +168,19 @@ border-color:red;
 								<h2 class="nama">Twibbon</h2>
 				</div>
 				<br><br><br><br>
-				
+				<button class="play" onclick="play()">Mulai</button>
+
+<audio class="audio" controls id="playAudio">
+ <source src="https://raw.githubusercontent.com/rifkipriyatnaa/Twibbon/main/indonesiapusaka.mp3" type="audio/ogg"> </audio>
+
+
+				<script>
+				var x = document.getElementById("playAudio"); 
+
+function play() { 
+  x.play(); 
+} 
+</script>
 				<div class="bckgrnd" id="bckgrnd">
 								
 <div>
