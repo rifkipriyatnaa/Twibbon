@@ -9,6 +9,7 @@ $(document).ready(function(){
     $("#bckgrnd").fadeOut(100);
     $("#hasil").fadeIn(1000);
     $("#ambil").fadeOut(100);
+    $("#link").fadeOut(100);
     
   });
 });
@@ -154,6 +155,12 @@ width:5px;
 opacity:0;
 }
 
+.link{
+ font-size:10px;
+ color:#bb1f27;
+ display:none;
+}
+
 </style>
 
 
@@ -176,6 +183,7 @@ $(document).ready(function(){
     $("#play").fadeOut(100);
     $("#bckgrnd").fadeIn(1000);
     $("#ambil").fadeIn(1000);
+    $("#link").fadeIn(1000);
 });
 });
     
@@ -207,7 +215,7 @@ function play() {
 </div>
 <br><br>
 <button onclick="takeSnapshot()" class="ambil" id="ambil">Ambil Gambar</button>
-
+<p href="https://github.com/rifkipriyatnaa/CameraOn" class="link" id="link">Klik link ini jika camera anda tidak on</p>
 
 
 
