@@ -100,7 +100,7 @@ border-color:red;
 				background:white;
 				color:#bb1f27;
 				width:30%;
-				margin-left:20%;
+				margin-left:25%;
 				display:none;
 				font-size:10px;
 				padding:10px;
@@ -168,7 +168,7 @@ opacity:0;
 								</button>
 								<h2 class="nama">Twibbon</h2>
 				</div>
-				<br><br><br><br>
+				<br><br><br>
 
 <script>
 $(document).ready(function(){
@@ -197,7 +197,7 @@ function play() {
 				<div class="bckgrnd" id="bckgrnd">
 								
 <div>
-				<br><br>
+				<br><br><br><br>
     <video autoplay="true" id="video-webcam" class="clip">
        
     </video>
