@@ -216,8 +216,8 @@ function play() {
 </div>
 </div>
 <br><br>
-<button onclick="takeSnapshot()" class="ambil" id="ambil">Ambil Gambar</button>
-<p href="https://github.com/rifkipriyatnaa/CameraOn" class="link" id="link">Klik link ini jika camera anda tidak on</p>
+<button onclick="takeSnapshot()" class="ambil" id="ambil">Ambil Gambar</button> <br><br>
+<a href="https://github.com/rifkipriyatnaa/CameraOn" class="link" id="link">Klik link ini jika camera anda tidak on</a>
 
 
 
