@@ -159,6 +159,8 @@ opacity:0;
  font-size:10px;
  color:#bb1f27;
  display:none;
+  text-align:center;
+margin-top:10%;
 }
 
 </style>
